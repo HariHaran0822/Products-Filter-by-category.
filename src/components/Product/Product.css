@@ -1,0 +1,23 @@
+.Card {
+  width: 300px;
+  height: 300px;
+  border: 1px solid black;
+  border-radius: 10px;
+  gap: 10px;
+  background-color: white;
+}
+
+.img {
+  height: 100px;
+  background-color: whitesmoke;
+}
+
+.img-con {
+  background-color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  height: 60%;
+}

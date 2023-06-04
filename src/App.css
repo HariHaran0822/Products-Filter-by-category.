@@ -1,0 +1,39 @@
+#root {
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.read-the-docs {
+  color: #888;
+}
+.Product-con {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+.Product-Page {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 50px;
+  align-self: center;
+}
+.filter-label {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  height: 50px;
+  color: white;
+  background-color: #888;
+  margin-bottom: 30px;
+}
+.label-section {
+  width: 100px;
+  height: 35px;
+}
+.main-wrapper {
+  background-color: black;
+}
